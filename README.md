@@ -8,10 +8,12 @@ The parameter "configuration" refers to the three configurations of the pre-proc
 2. configuration=2 --> tokenization + stop word removal + lemmatization
 3. configuration=3 --> tokenization + stop word removal + lemmatization + keyphrase extraction
 
+<center>
 <img src="wordembedding_extraction.png">
 Figure 1 - Document vector extraction.
+</center><br><br>
 
-<br>
+
 <b>[html] supervised_classification.html, [ipynb] supervised_classification.ipynb</b>: python code for the application of 15 supervised categorization algorithms to the document vectors.
 
 <b>[html] unsupervised_classification.html, [ipynb] unsupervised_classification.ipynb</b>: python code for the application of 4 unsupervised categorization algorithms to the document vectors.
