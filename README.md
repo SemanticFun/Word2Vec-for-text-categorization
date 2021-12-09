@@ -2,6 +2,17 @@
 
 <b>"model M3.kv"</b> is the Word2Vec model obtained by training the model of [1] on a dataset of 17,500 Italian news articles related to crime events.
 
+<b>[html] preprocessing and document embeddings.html, [ipynb] preprocessing and document embeddings.ipynb</b>: python code for extracting the embeddings of the input documents through a pre-processing phase, training a Word2Vec model or loading an existing model, and applying the model to the pre-processing output.
+Three configurations of the pre-processing are allowed:
+1. configuration=1 --> tokenization, stop word removal
+2. configuration=2 --> tokenization, stop word removal, lemmatization
+3. configuration=3 --> tokenization, stop word removal, lemmatization, keyphrase extraction
+
+<img src="wordembedding_extraction.png">
+
+<b>[html] supervised_classification.html, [ipynb] supervised_classification.ipynb</b>: 
+
+<b>[html] unsupervised_classification.html, [ipynb] unsupervised_classification.ipynb</b>: 
 
 **If the code is useful, please consider citing paper using the BibTex entry below.**
 
