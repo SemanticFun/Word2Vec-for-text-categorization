@@ -33,7 +33,7 @@ Fifure 1 - Document vector extraction.
   url       = {https://doi.org/10.15439/2021F118},
   doi       = {10.15439/2021F118}
 }
-
+```
 
 [1] Di Gennaro G., Buonanno A., Di Girolamo A., Ospedale A., Palmieri F.A.N., Fedele G. (2021) 
 An Analysis of Word2Vec for the Italian Language. In: Esposito A., Faundez-Zanuy M., Morabito F., Pasero E. 
