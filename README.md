@@ -36,6 +36,26 @@ Figure 1 - Document vector extraction.
   url       = {https://doi.org/10.15439/2021F118},
   doi       = {10.15439/2021F118}
 }
+
+@inproceedings{rollo2021,
+  author    = {Federica Rollo and
+               Giovanni Bonisoli and
+               Laura Po},
+  editor    = {Ewa Ziemba and
+               Witold Chmielarz},
+  title     = {Supervised and Unsupervised Categorization of an Imbalanced Italian Crime News Dataset},
+  booktitle = {Information Technology for Management: Business and Social Issues
+               - 16th Conference, {ISM} 2021, and FedCSIS-AIST 2021 Track, Held as
+               Part of FedCSIS 2021, Virtual Event, September 2-5, 2021, Extended
+               and Revised Selected Papers},
+  series    = {Lecture Notes in Business Information Processing},
+  volume    = {442},
+  pages     = {117--139},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-98997-2\_6},
+  doi       = {10.1007/978-3-030-98997-2\_6}
+}
 ```
 
 [1] Di Gennaro G., Buonanno A., Di Girolamo A., Ospedale A., Palmieri F.A.N., Fedele G. (2021) 
